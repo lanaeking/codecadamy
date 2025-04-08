@@ -1,0 +1,39 @@
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  background-color: seagreen;
+  font-family: sans-serif;
+  
+}
+
+h2 {
+  color: DodgerBlue;
+  text-align: center;
+  font-size: 24px;
+  font-family: serif;
+}
+
+table {
+  text-align: center;
+  margin: 20px, auto;
+}
+
+table, thead, th {
+  border: 2px solid navy;
+}
+
+table, thead, {
+  font-weight: bold;
+  text-align: center;
+  font-size: 18px;
+  font-family:sans-serif;
+}
+
+td {
+  text-align: center;
+  padding: 2%;
+  line-height: 1.5;
+}
+
+
